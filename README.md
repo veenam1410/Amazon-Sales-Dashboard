@@ -83,11 +83,9 @@ The dashboard enables users to filter data by **Product Category**, **Year**, an
 - Data Cleaning & Transformation
 - Dashboard Design Principles
 - KPI Development
-- Business Intelligence Reporting
 - Interactive Data Visualization
 - Power Query Workflow
 - Pivot Table & Pivot Chart Analysis
-- Excel Automation Techniques
 
 ---
 
