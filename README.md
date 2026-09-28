@@ -93,5 +93,5 @@ The dashboard enables users to filter data by **Product Category**, **Year**, an
 
 **Veena M**
 
-- LinkedIn: https://www.linkedin.com/in/veena-m-3763ba370
-- GitHub: https://github.com/veenam1410
+- [LinkedIn](https://www.linkedin.com/in/veenam1410)
+- [GitHub](https://github.com/veenam1410)
